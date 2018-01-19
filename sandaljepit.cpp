@@ -32,8 +32,8 @@ int main(){
 	cout << (swallow.warna);
 	cout << (swallow.ukuran)<<" ";
 	swallow.bahan("plastik ");
-	cout << (ando.warna);
 //cout ando
+	cout << (ando.warna);
 	cout << (ando.ukuran)<<" ";
 	ando.bahan("kulit ");
 }
