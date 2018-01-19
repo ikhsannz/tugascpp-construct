@@ -26,3 +26,6 @@ int main(){
 	cout << (ando.warna);
 	cout << (ando.ukuran)<<" ";
 }
+void sandaljepit ::bahan(string dibuat){
+	cout<<"bahannya "<<dibuat<<endl;
+}
