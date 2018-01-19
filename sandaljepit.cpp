@@ -19,6 +19,8 @@ int main(){
 	ando.warna 		= "kuning hitam ";
 	ando.ukuran		= 45 ;
 	
-		cout << (nippon.warna);
+	cout << (nippon.warna);
 	cout << (nippon.ukuran)<<" ";
+	cout << (swallow.warna);
+	cout << (swallow.ukuran)<<" ";
 }
