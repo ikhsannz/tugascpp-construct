@@ -18,4 +18,7 @@ int main(){
 	swallow.ukuran 	= 42 ;
 	ando.warna 		= "kuning hitam ";
 	ando.ukuran		= 45 ;
+	
+		cout << (nippon.warna);
+	cout << (nippon.ukuran)<<" ";
 }
