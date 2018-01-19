@@ -23,4 +23,6 @@ int main(){
 	cout << (nippon.ukuran)<<" ";
 	cout << (swallow.warna);
 	cout << (swallow.ukuran)<<" ";
+	cout << (ando.warna);
+	cout << (ando.ukuran)<<" ";
 }
