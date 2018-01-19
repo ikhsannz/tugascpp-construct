@@ -11,4 +11,8 @@ class sandaljepit{
 };
 int main(){
 	sandaljepit nippon,swallow,ando;
+	
+	nippon.warna 	= "putih biru ";
+	nippon.ukuran 	= 43 ;
+	
 }
