@@ -21,10 +21,13 @@ int main(){
 	
 	cout << (nippon.warna);
 	cout << (nippon.ukuran)<<" ";
+	nippon.bahan("karet ");
 	cout << (swallow.warna);
 	cout << (swallow.ukuran)<<" ";
+	swallow.bahan("plastik ");
 	cout << (ando.warna);
 	cout << (ando.ukuran)<<" ";
+	ando.bahan("kulit ");
 }
 void sandaljepit ::bahan(string dibuat){
 	cout<<"bahannya "<<dibuat<<endl;
