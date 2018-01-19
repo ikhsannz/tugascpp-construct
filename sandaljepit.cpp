@@ -9,3 +9,6 @@ class sandaljepit{
 		int ukuran;
 		string warna;
 };
+int main(){
+	sandaljepit nippon,swallow,ando;
+}
