@@ -14,5 +14,6 @@ int main(){
 	
 	nippon.warna 	= "putih biru ";
 	nippon.ukuran 	= 43 ;
-	
+	swallow.warna 	= "hijau merah ";
+	swallow.ukuran 	= 42 ;
 }
